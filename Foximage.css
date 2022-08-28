@@ -1,0 +1,19 @@
+.Foximage  {
+   display:inline-block;
+   width:100px;
+   height:100px;
+  
+}
+.Foximage img {
+    
+    width:100px;
+    height:100px;
+   
+ }
+
+
+.rendering {
+    display:inline-block;
+    width: 150px;
+    height:150px;
+}
